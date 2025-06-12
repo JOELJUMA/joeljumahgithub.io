@@ -17,7 +17,6 @@ excerpt: "Cybersecurity | Web Developer | Digital Marketer"
 
 
 
-color: #FFFFFF; /* Text color / background-color: white; / Background color */
 
 Welcome to my digital portfolio! I’m Joel Habisayas Juma, an IT professional passionate about cybersecurity, web development, and digital transformation.
 
