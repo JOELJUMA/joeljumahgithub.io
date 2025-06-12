@@ -11,13 +11,14 @@ header:
     - label: "View My Projects"    
       url: "/projects/"
 excerpt: "Cybersecurity | Web Developer | Digital Marketer"
----
 <style>
   .splash .btn {
     color: #ffffff !important;
     border-color: #ffffff !important;
   }
 </style>
+---
+
 
 color: #FFFFFF; /* Text color / background-color: white; / Background color */
 
