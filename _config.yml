@@ -31,7 +31,7 @@ plugins:
 
 author:
   name   : "Joel Habisayas Juma"
-  avatar : "/assets/images/bio-photo.jpg" # Replace this with your photo path
+  avatar : "/assets/images/passport.png" # Replace this with your photo path
   bio    : "IT professional skilled in Cloud Security, Web Development, and Digital Marketing. Passionate about technology and problem-solving."
   links:
     - label: "LinkedIn"
