@@ -11,8 +11,7 @@ classes: wide
 **Tools:** Burp Suite, SQLMap  
 **Approach:** Used `' OR '1'='1` to bypass auth  
 **Lessons:** Input validation is critical  
-**Screenshot:**  
-![SQLi Screenshot](/assets/images/sql-lab.png)
+
 
 ---
 
@@ -23,6 +22,7 @@ classes: wide
 **Result:** Password cracked in 2 minutes  
 **Lessons:** Importance of salting
 
+
 ---
 
 ## 🔍 Challenge 3: Network Sniffing - Wireshark
@@ -31,3 +31,5 @@ classes: wide
 **Tools:** Wireshark  
 **Outcome:** Able to extract plaintext credentials  
 **Lessons:** Avoid HTTP for sensitive data  
+**Screenshot:**  
+![SQLi Screenshot](/assets/images/sql-lab.png)
