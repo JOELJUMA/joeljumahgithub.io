@@ -12,7 +12,7 @@ header:
       url: "/projects/"
 excerpt: "Cybersecurity | Web Developer | Digital Marketer"
 <style>
-  .splash .btn {
+  .actions .label{
     color: #ffffff !important;
     border-color: #ffffff !important;
   }
