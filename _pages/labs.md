@@ -32,4 +32,4 @@ classes: wide
 **Outcome:** Able to extract plaintext credentials  
 **Lessons:** Avoid HTTP for sensitive data  
 **Screenshot:**  
-![SQLi Screenshot](/assets/images/sql-lab.png)
+![SQLi Screenshot](/assets/images/congrats.png)
