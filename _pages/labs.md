@@ -13,7 +13,7 @@ classes: wide
 **Lessons:** Input validation is critical  
 
 
----
+--- 
 
 ## 🔐 Challenge 2: Password Cracking - Hashcat
 
