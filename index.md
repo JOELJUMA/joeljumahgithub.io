@@ -4,7 +4,7 @@ title: "Joel Habisayas Juma"
 header:
   overlay_color: "#001"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/images.jpg
+  overlay_image: /assets/images/pexels-moose-photos-170195-1037992.jpg
   actions:
     - label: "View My Resume"
       url: "/resume/"
