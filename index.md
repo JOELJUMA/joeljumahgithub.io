@@ -13,12 +13,7 @@ header:
 excerpt: "Cybersecurity | Web Developer | Digital Marketer"
 ---
 
-<style>
-  .splash .btn {
-    color: #ffffff !important;
-    border-color: #ffffff !important;
-  }
-</style>
+
 
 
 
